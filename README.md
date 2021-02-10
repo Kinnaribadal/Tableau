@@ -4,6 +4,8 @@ Kinnari Patel Tableau homework
 
 2) used pandas in juypter notebook
 
+https://github.com/Kinnaribadal/Tableau/blob/main/Making_Small_csvs.ipynb
+
 3) aggregated data for use
 
 4) created smalled csv's saved them
