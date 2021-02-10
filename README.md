@@ -10,6 +10,8 @@ https://github.com/Kinnaribadal/Tableau/blob/main/Making_Small_csvs.ipynb
 
 4) created smalled csv's saved them
 
+https://github.com/Kinnaribadal/Tableau/tree/main/Data
+
 5)In Tableau created union
 
 6)Created 6 Visualization
